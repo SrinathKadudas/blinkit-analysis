@@ -51,3 +51,11 @@ Chart Type: Funnel Map.
 7. All Metrics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 Chart Type: Matrix Card.
+
+
+### Observations and Insights
+- Tier 3 cites contributed to highest sales for blinkIT revenue
+- Major items sold were fruits and vegetables from all the regions
+- sea food is the least sold item in BlinkIT.
+- It is recommeded to establish mulitple super market types in tier 1 and tier 2 cites to increase sales
+- 
