@@ -58,4 +58,3 @@ Chart Type: Matrix Card.
 - Major items sold were fruits and vegetables from all the regions
 - sea food is the least sold item in BlinkIT.
 - It is recommeded to establish mulitple super market types in tier 1 and tier 2 cites to increase sales
-- 
