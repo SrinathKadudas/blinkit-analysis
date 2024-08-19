@@ -1,6 +1,6 @@
 # E-commerce blinkit analysis
 This is a data analysis of blinkit e commerce data using Microsoft power bi
-this data anaysis project aims to provides insights into sales performance of an e commerce company over the past 11 years. By analysing various aspects of sales data, we seek to identify trends, make data driven recommedations and gain a deeper understanding of company's performance.
+this data anaysis project aims to provides insights into sales performance of an e commerce company over the past 11 years. By analysing various aspects of sales data, we seek to identify trends, make data driven recommendations and gain a deeper understanding of company's performance.
 ### Data sources
 The primary dataset used for this analysis is 'blinkIT grocery data.csv' file, containing detailed information about sales from various outlets in over the last 11 years.
 
